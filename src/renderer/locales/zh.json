@@ -1,0 +1,13 @@
+{
+    "hello_world": "你好，世界!",
+    "incomplete": "未完成",
+    "completed": "已完成",
+    "Status": "状态",
+    "Task": "任务",
+    "Action": "操作",
+    "plan": "计划",
+    "recently": "最近",
+    "Delete": "删除",
+    "Toggle": "状态切换",
+    "Sure to delete?": "确定要删除吗？"
+}

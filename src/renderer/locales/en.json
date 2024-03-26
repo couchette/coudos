@@ -1,0 +1,13 @@
+{
+    "hello_world": "Hello World!",
+    "incomplete": "incomplete",
+    "completed": "completed",
+    "Status": "Status",
+    "Task": "Task",
+    "Action": "Action",
+    "plan": "plan",
+    "recently": "recently",
+    "Delete": "Delete",
+    "Toggle": "Toggle",
+    "Sure to delete?": "Sure to delete?"
+}
